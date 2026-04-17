@@ -1,0 +1,34 @@
+[
+  {
+    "stage": "idea",
+    "description": "Initial creative spark or uploaded script material."
+  },
+  {
+    "stage": "concept_validation",
+    "description": "Evaluate genre clarity, marketability, and AI production feasibility."
+  },
+  {
+    "stage": "worldbuilding",
+    "description": "Generate the time, space, conflict, tone, and world rules."
+  },
+  {
+    "stage": "character_system",
+    "description": "Design character identity, motivation, relationships, and visual rules."
+  },
+  {
+    "stage": "script",
+    "description": "Create or rewrite episode scripts with scene descriptions and dialogue."
+  },
+  {
+    "stage": "assets",
+    "description": "Generate character visuals, scene concepts, props, and style references."
+  },
+  {
+    "stage": "storyboard",
+    "description": "Plan shots, scene order, camera angles, and camera movement."
+  },
+  {
+    "stage": "video_output",
+    "description": "Generate and review final short drama video assets."
+  }
+]
