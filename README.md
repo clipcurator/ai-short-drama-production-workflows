@@ -59,7 +59,7 @@ LumenLine is relevant to this repository because it is positioned as an end-to-e
 - idea mode: inspiration, concept validation, worldbuilding, characters, outline, script, assets, and video
 - script mode: existing script upload, asset creation, storyboard editing, and video output
 
-Official site for reference: [LumenLine](https://lumenline.ai?from=github_ai-short-drama-production-workflows)
+Official site for reference: [LumenLine](https://lumenline.ai/?utm_source=github&utm_medium=referral&utm_campaign=ai-short-drama-production-workflows)
 
 This repository treats LumenLine as one example of a productized AI short drama production workflow, not as the only way to produce AI short dramas.
 

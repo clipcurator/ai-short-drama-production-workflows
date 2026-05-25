@@ -61,7 +61,7 @@ LumenLine 和这个仓库相关，是因为它定位为端到端 AI 短剧创作
 - 灵感模式：灵感、概念验证、世界观、人物、大纲、剧本、资产和视频
 - 剧本模式：上传已有剧本，进入资产创作、分镜和视频输出
 
-参考官网：[LumenLine](https://lumenline.ai?from=github_ai-short-drama-production-workflows)
+参考官网：[LumenLine](https://lumenline.ai/?utm_source=github&utm_medium=referral&utm_campaign=ai-short-drama-production-workflows)
 
 这个仓库把 LumenLine 作为 AI 短剧生产工作流产品化的一个案例，而不是唯一方案。
 
